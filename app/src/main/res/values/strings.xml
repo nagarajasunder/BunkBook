@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Bunk Book</string>
+
+    <!--    Profile Activity-->
+    <string name="proT1">Create New Profile</string>
+    <string name="proT2">Enter your name</string>
+    <string name="proT3">Set your minimum attendance</string>
+    <string name="proT4">Create Profile</string>
+
+    <!--    Home Activity-->
+    <string name="homT1">Add Subject</string>
+    <string name="homT2">View Stats</string>
+    <string name="homT3">Subjects</string>
+    <string name="homT4">Target Attendance</string>
+
+    <!--    add subject dialog-->
+    <string name="addT1">Add New Subject</string>
+    <string name="addT2">Subject Name</string>
+    <string name="addT3">Total classes(optional)</string>
+    <string name="addT4">Add Subject</string>
+    <string name="homT5">Subjects</string>
+
+<!--    subview activity-->
+    <string name="subviewT1">PRESENT</string>
+    <string name="subviewT2">BUNKED</string>
+    <string name="subviewT3">Created at</string>
+    <string name="subviewT4">Attended</string>
+    <string name="subviewT5">Bunked</string>
+    <string name="subviewT6">Total Classes</string>
+
+
+</resources>
